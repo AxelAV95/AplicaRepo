@@ -11,6 +11,8 @@
 - Tu experiencia previa.
 - Lo que te gustaría aprender o profundizar.
 
+**¿Cuánto gana un programador en Costa Rica 2025, [averigüalo aquí](https://talently.tech/herramientas/costa-rica/salario)**
+
 ---
 
 ### 🔍 **2. Investiga la empresa**
@@ -22,6 +24,10 @@
 - Tecnologías que usan.
 - Nivel de exigencia.
 - Reseñas de empleados.
+
+[**Busca información de una empresa aquí**](https://www.glassdoor.es/Opiniones/index.htm)
+
+[**Consulta sueldos de alguna posición aquí**](https://www.glassdoor.es/Sueldos/index.htm)
 
 ---
 
@@ -49,6 +55,7 @@
 **Qué hacer:**
 - Usa el canal correcto: su página, LinkedIn, portales, o contacto directo.
 - Aplica con todo actualizado (CV, portafolio, carta).
+- Lleva control de las aplicaciones (Descarga la plantilla "Seguimiento_Aplicaciones_Trabajo.xlsx" que está en el repositorio)
 
 ---
 
@@ -60,6 +67,8 @@
 **Qué tener en cuenta:**
 - Sitios útiles: LeetCode, HackerRank, Excalidraw (para diagramas).
 - Preguntas comunes de entrevistas técnicas y personales.
+
+**[Simulador de entrevista](https://simulador-entrevista.netlify.app/)**
 
 ---
 
