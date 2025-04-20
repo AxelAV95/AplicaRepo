@@ -60,7 +60,7 @@ Si necesitas una plantilla básica, en el repositorio puedes encontrar una como 
 **Qué hacer:**
 - Usa el canal correcto: su página, LinkedIn, portales, o contacto directo.
 - Aplica con todo actualizado (CV, portafolio, carta).
-- Lleva control de las aplicaciones (Descarga la plantilla "Seguimiento_Aplicaciones_Trabajo.xlsx" que está en el repositorio)
+- Lleva control de las aplicaciones (Descarga la plantilla **"Seguimiento_Aplicaciones_Trabajo.xlsx"** que está en el repositorio)
 
 ---
 
