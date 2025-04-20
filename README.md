@@ -1,4 +1,4 @@
-# Un **paso a paso sencillo y claro** para aplicar a una empresa para un puesto de software, junto con lo más importante que debes tener en cuenta en cada etapa:
+# Guía básica para aplicar a puestos
 
 ---
 
