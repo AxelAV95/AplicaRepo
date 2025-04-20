@@ -43,6 +43,8 @@ Sugerencia: Se puede realizar un prompt con búsqueda web en cualquier chat de i
 - Que tu CV sea claro, conciso y de 1 página.
 - Que tus proyectos muestren código limpio, buenas prácticas y estén activos si es posible.
 
+Si necesitas una plantilla básica, en el repositorio puedes encontrar una como **Plantilla CV.docx**
+
 ---
 
 ### 💌 **4. Redacta una buena carta de presentación (opcional pero potente)**
