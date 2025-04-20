@@ -30,7 +30,8 @@
 
 [**Consulta sueldos de alguna posición aquí**](https://www.glassdoor.es/Sueldos/index.htm)
 
-Sugerencia: Se puede realizar un prompt con búsqueda web en cualquie chat de inteligencia artificial para obtener información sobre cultura, valores, etc.
+Sugerencia: Se puede realizar un prompt con búsqueda web en cualquier chat de inteligencia artificial para obtener información sobre cultura, valores, etc.
+
 ---
 
 ### 📝 **3. Ajusta tu CV y portafolio**
