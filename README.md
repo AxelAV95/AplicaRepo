@@ -1,4 +1,5 @@
 # Guía básica para aplicar a puestos
+<center><img src="https://github.com/user-attachments/assets/a6f64045-dd1d-452b-acb4-4c2c646c1d72" width="200" height="200"/></center>
 
 ---
 
